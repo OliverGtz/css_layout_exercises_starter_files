@@ -1,0 +1,26 @@
+.container {
+	width: 800px;
+	margin: 0 auto;
+	font-size: 0;
+}
+
+.box {
+	border: 1px solid black;
+	display: inline-block;
+}
+
+.first-row-box {
+	width:50%;
+	height:200px;
+}
+
+.second-row-box {
+	width:33.333%;
+	height:300px;
+}
+
+.green { background: #3d7900; }
+.blue { background: #0048fb; }
+.grey { background: #7f7f7f; }
+.black { background: #000; }
+.orange { background: #f3a633; }
